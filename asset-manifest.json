@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Meera-Kumari-1903/static/css/main.bf538fe7.css",
-    "main.js": "/Meera-Kumari-1903/static/js/main.6e75a0dd.js",
-    "static/media/HeroImage.png": "/Meera-Kumari-1903/static/media/HeroImage.ab2de2b29531733919ca.png",
-    "index.html": "/Meera-Kumari-1903/index.html",
-    "main.bf538fe7.css.map": "/Meera-Kumari-1903/static/css/main.bf538fe7.css.map",
-    "main.6e75a0dd.js.map": "/Meera-Kumari-1903/static/js/main.6e75a0dd.js.map"
+    "main.css": "/My-Portfolio/static/css/main.bf538fe7.css",
+    "main.js": "/My-Portfolio/static/js/main.d87c3cf9.js",
+    "static/media/HeroImage.png": "/My-Portfolio/static/media/HeroImage.ab2de2b29531733919ca.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.bf538fe7.css.map": "/My-Portfolio/static/css/main.bf538fe7.css.map",
+    "main.d87c3cf9.js.map": "/My-Portfolio/static/js/main.d87c3cf9.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.6e75a0dd.js"
+    "static/js/main.d87c3cf9.js"
   ]
 }
